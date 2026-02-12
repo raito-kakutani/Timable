@@ -1,0 +1,7 @@
+# Dark theme — gray / neutral
+[theme]
+primaryColor = "#a1a1aa"
+backgroundColor = "#0f0f0f"
+secondaryBackgroundColor = "#18181b"
+textColor = "#e4e4e7"
+font = "sans serif"

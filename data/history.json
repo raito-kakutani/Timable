@@ -1,0 +1,100 @@
+[
+  {
+    "ts": "2026-02-12T00:54:34.349514",
+    "action": "generate",
+    "target": "Timetable",
+    "summary": "Generated clash-free timetable",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:53:52.069674",
+    "action": "demo",
+    "target": "Demo Data",
+    "summary": "Loaded demo teachers and classes",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:53:50.886221",
+    "action": "clear",
+    "target": "All",
+    "summary": "All teachers and classes cleared",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:44:18.059649",
+    "action": "demo",
+    "target": "Demo Data",
+    "summary": "Loaded demo teachers and classes",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:44:14.742676",
+    "action": "clear",
+    "target": "All",
+    "summary": "All teachers and classes cleared",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:44:11.223272",
+    "action": "delete",
+    "target": "Teacher T5",
+    "summary": "Removed teacher T5",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:44:09.126975",
+    "action": "delete",
+    "target": "Teacher T6",
+    "summary": "Removed teacher T6",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:36:40.052620",
+    "action": "generate",
+    "target": "Timetable",
+    "summary": "Generated clash-free timetable",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:33:54.371251",
+    "action": "export",
+    "target": "PDF",
+    "summary": "Exported teacher timetables PDF",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:33:50.643891",
+    "action": "export",
+    "target": "PDF",
+    "summary": "Exported teacher timetables PDF",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:33:48.659779",
+    "action": "export",
+    "target": "PDF",
+    "summary": "Exported class timetables PDF",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:31:15.908174",
+    "action": "generate",
+    "target": "Timetable",
+    "summary": "Generated clash-free timetable",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:30:02.734540",
+    "action": "demo",
+    "target": "Demo Data",
+    "summary": "Loaded demo teachers and classes",
+    "details": ""
+  },
+  {
+    "ts": "2026-02-12T00:16:35.362712",
+    "action": "test",
+    "target": "X",
+    "summary": "Test entry",
+    "details": ""
+  }
+]
